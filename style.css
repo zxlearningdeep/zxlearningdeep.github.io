@@ -265,3 +265,19 @@ footer p { margin: 0; }
     font-size: 15px;
   }
 }
+
+#services ul {
+  list-style-type: disc;
+  margin: 6px 0 14px 20px;
+  padding: 0;
+}
+
+#services li {
+  margin-bottom: 4px;
+  color: var(--text);
+}
+
+
+.contact div {
+  word-break: break-word;
+}
